@@ -1,0 +1,29 @@
+version: '3.4'
+
+services:
+  appartmentsystem.api:
+    image: ${DOCKER_REGISTRY-}appartmentsystemapi
+    build:
+      context: .
+      dockerfile: AppartmentSystem.Api/Dockerfile
+
+  carsystem.api:
+    image: ${DOCKER_REGISTRY-}carsystemapi
+    build:
+      context: .
+      dockerfile: CarSystem.Api/Dockerfile
+
+
+  schoolsystem.api:
+    image: ${DOCKER_REGISTRY-}schoolsystemapi
+    build:
+      context: .
+      dockerfile: SchoolSystem.Api/Dockerfile
+
+
+  tourismsystem.api:
+    image: ${DOCKER_REGISTRY-}tourismsystemapi
+    build:
+      context: .
+      dockerfile: TourismSystem.Api/Dockerfile
+

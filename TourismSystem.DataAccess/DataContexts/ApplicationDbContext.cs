@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TourismSystem.Domain.Entities;
 
 namespace AppartmentSystem.DataAccess.DataContexts
 {
@@ -8,5 +9,7 @@ namespace AppartmentSystem.DataAccess.DataContexts
         {
             Database.EnsureCreated();
         }
+
+        public virtual DbSet<Ticket> Tickets { get; set; }
     }
 }

@@ -10,4 +10,8 @@
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\TourismSystem.Domain\TourismSystem.Domain.csproj" />
+	</ItemGroup>
+
 </Project>

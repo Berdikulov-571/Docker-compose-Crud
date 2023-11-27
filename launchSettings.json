@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "appartmentsystem.api": "StartDebugging",
+        "carsystem.api": "StartDebugging",
+        "schoolsystem.api": "StartDebugging",
+        "tourismsystem.api": "StartDebugging"
+      }
+    }
+  }
+}

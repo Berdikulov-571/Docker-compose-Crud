@@ -9,5 +9,9 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
 	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\TourismSystem.DataAccess\TourismSystem.DataAccess.csproj" />
+	</ItemGroup>
 	
 </Project>

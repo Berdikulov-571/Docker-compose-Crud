@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8B333D90-268E-4662-A828-9B1890999FD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CarSystem", "CarSystem", "{1D30ECC0-C966-49F5-87B7-A9B0E0D4C877}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TourismSystem", "TourismSystem", "{EA729FC7-88AE-4B90-8E68-65149CFCE917}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppartmentSystem", "AppartmentSystem", "{06279D03-14E0-44FC-AD0B-31B391C0B24A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SchoolSystem", "SchoolSystem", "{AEF5512D-223B-42C4-95EB-4CCD1F4C4E9D}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D30ECC0-C966-49F5-87B7-A9B0E0D4C877} = {8B333D90-268E-4662-A828-9B1890999FD6}
+		{EA729FC7-88AE-4B90-8E68-65149CFCE917} = {8B333D90-268E-4662-A828-9B1890999FD6}
+		{06279D03-14E0-44FC-AD0B-31B391C0B24A} = {8B333D90-268E-4662-A828-9B1890999FD6}
+		{AEF5512D-223B-42C4-95EB-4CCD1F4C4E9D} = {8B333D90-268E-4662-A828-9B1890999FD6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9D9886-555B-42EE-AB7A-428066EB9709}
+	EndGlobalSection
+EndGlobal

@@ -13,37 +13,39 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppartmentSystem", "Appartm
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SchoolSystem", "SchoolSystem", "{AEF5512D-223B-42C4-95EB-4CCD1F4C4E9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppartmentSystem.Api", "AppartmentSystem.Api\AppartmentSystem.Api.csproj", "{F5BD1BA4-8CA9-4766-A035-A19BDFE4B091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppartmentSystem.Api", "AppartmentSystem.Api\AppartmentSystem.Api.csproj", "{F5BD1BA4-8CA9-4766-A035-A19BDFE4B091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppartmentSystem.DataAccess", "AppartmentSystem.DataAccess\AppartmentSystem.DataAccess.csproj", "{9C657BFF-17FE-4EA6-9D6B-0B72C5E28596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppartmentSystem.DataAccess", "AppartmentSystem.DataAccess\AppartmentSystem.DataAccess.csproj", "{9C657BFF-17FE-4EA6-9D6B-0B72C5E28596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppartmentSystem.Domain", "AppartmentSystem.Domain\AppartmentSystem.Domain.csproj", "{9C011D85-194D-417D-964F-C0B8FE943ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppartmentSystem.Domain", "AppartmentSystem.Domain\AppartmentSystem.Domain.csproj", "{9C011D85-194D-417D-964F-C0B8FE943ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppartmentSystem.Service", "AppartmentSystem.Service\AppartmentSystem.Service.csproj", "{7F501ECE-9B40-455E-A39A-28716CC549DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppartmentSystem.Service", "AppartmentSystem.Service\AppartmentSystem.Service.csproj", "{7F501ECE-9B40-455E-A39A-28716CC549DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSystem.Api", "CarSystem.Api\CarSystem.Api.csproj", "{9AF8435E-1DD9-4DEA-BD96-F5BBD006F77E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSystem.Api", "CarSystem.Api\CarSystem.Api.csproj", "{9AF8435E-1DD9-4DEA-BD96-F5BBD006F77E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSystem.DataAccess", "CarSystem.DataAccess\CarSystem.DataAccess.csproj", "{DED65C1C-860B-4AEF-9F65-05A50E1CB54C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSystem.DataAccess", "CarSystem.DataAccess\CarSystem.DataAccess.csproj", "{DED65C1C-860B-4AEF-9F65-05A50E1CB54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSystem.Domain", "CarSystem.Domain\CarSystem.Domain.csproj", "{959056C0-3A49-46DC-922C-7CF5267C8324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSystem.Domain", "CarSystem.Domain\CarSystem.Domain.csproj", "{959056C0-3A49-46DC-922C-7CF5267C8324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSystem.Service", "CarSystem.Service\CarSystem.Service.csproj", "{E491CACF-8BBB-4ECD-83A9-F9B30BE0897E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSystem.Service", "CarSystem.Service\CarSystem.Service.csproj", "{E491CACF-8BBB-4ECD-83A9-F9B30BE0897E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolSystem.Api", "SchoolSystem.Api\SchoolSystem.Api.csproj", "{351D0D27-13FE-4110-9DD9-049DAE965DFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolSystem.Api", "SchoolSystem.Api\SchoolSystem.Api.csproj", "{351D0D27-13FE-4110-9DD9-049DAE965DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolSystem.DataAccess", "SchoolSystem.DataAccess\SchoolSystem.DataAccess.csproj", "{F1EDA8DA-B023-470A-9905-DE10D2818106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolSystem.DataAccess", "SchoolSystem.DataAccess\SchoolSystem.DataAccess.csproj", "{F1EDA8DA-B023-470A-9905-DE10D2818106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolSystem.Domain", "SchoolSystem.Domain\SchoolSystem.Domain.csproj", "{42E5984F-8AAF-4D44-9C04-B05CAE38EB25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolSystem.Domain", "SchoolSystem.Domain\SchoolSystem.Domain.csproj", "{42E5984F-8AAF-4D44-9C04-B05CAE38EB25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolSystem.Service", "SchoolSystem.Service\SchoolSystem.Service.csproj", "{C1B9A8E8-430E-4BC6-B005-C3B344FD4B1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolSystem.Service", "SchoolSystem.Service\SchoolSystem.Service.csproj", "{C1B9A8E8-430E-4BC6-B005-C3B344FD4B1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourismSystem.Api", "TourismSystem.Api\TourismSystem.Api.csproj", "{79594433-EEC9-47BC-B23A-6B1CD45CDD0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourismSystem.Api", "TourismSystem.Api\TourismSystem.Api.csproj", "{79594433-EEC9-47BC-B23A-6B1CD45CDD0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourismSystem.DataAccess", "TourismSystem.DataAccess\TourismSystem.DataAccess.csproj", "{FB191327-D4B9-4668-BB86-BCC7B1DC621D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourismSystem.DataAccess", "TourismSystem.DataAccess\TourismSystem.DataAccess.csproj", "{FB191327-D4B9-4668-BB86-BCC7B1DC621D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourismSystem.Domain", "TourismSystem.Domain\TourismSystem.Domain.csproj", "{D82B6F81-A37B-467B-BAA2-20FFB9CC8B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourismSystem.Domain", "TourismSystem.Domain\TourismSystem.Domain.csproj", "{D82B6F81-A37B-467B-BAA2-20FFB9CC8B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourismSystem.Service", "TourismSystem.Service\TourismSystem.Service.csproj", "{DB71BA93-8952-4A68-854C-C511840A784D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourismSystem.Service", "TourismSystem.Service\TourismSystem.Service.csproj", "{DB71BA93-8952-4A68-854C-C511840A784D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{D9349CF6-6D43-4ECC-B836-51A91C0F26AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +117,10 @@ Global
 		{DB71BA93-8952-4A68-854C-C511840A784D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB71BA93-8952-4A68-854C-C511840A784D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB71BA93-8952-4A68-854C-C511840A784D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9349CF6-6D43-4ECC-B836-51A91C0F26AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9349CF6-6D43-4ECC-B836-51A91C0F26AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9349CF6-6D43-4ECC-B836-51A91C0F26AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9349CF6-6D43-4ECC-B836-51A91C0F26AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

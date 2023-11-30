@@ -4,7 +4,7 @@
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
     <DockerPublishLocally>False</DockerPublishLocally>
-    <ProjectGuid>d9349cf6-6d43-4ecc-b836-51a91c0f26ae</ProjectGuid>
+    <ProjectGuid>c3ea8961-51b1-4ed0-841b-82858e1f9431</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>appartmentsystem.api</DockerServiceName>

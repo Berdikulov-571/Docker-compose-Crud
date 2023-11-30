@@ -7,7 +7,7 @@ namespace AppartmentSystem.DataAccess.DataContexts
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            Database.EnsureCreated();
+            Database.Migrate();
         }
 
         public virtual DbSet<AppartmentModel> Appartments { get; set; }
